@@ -1,0 +1,1 @@
+<img style="width: 25rem; height: auto; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahadiyani&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=10" alt="top languages" />
