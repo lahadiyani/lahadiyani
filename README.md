@@ -74,7 +74,7 @@
 
 ## ✨ Fun Facts
 
-- 🔍 Bug Hunter & Pentester Enthusiast
+- 🔍 Prompt Engginering
 - 🚀 Love building APIs and web applications
 - 💡 Always curious about new technologies
 
