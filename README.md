@@ -42,7 +42,7 @@
 
 ### 🗄️ Databases & Cloud
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
 </p>
@@ -59,7 +59,7 @@
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="[https://www.facebook.com/AI Hadi](https://web.facebook.com/profile.php?id=100078252237871)" target="_blank">
+  <a href="https://web.facebook.com/profile.php?id=100078252237871" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:lahadiyani@example.com">
