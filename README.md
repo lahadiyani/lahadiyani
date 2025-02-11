@@ -5,6 +5,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lahadiyani&label=Profile%20views&color=0e75b6&style=flat" alt="lahadiyani" />
   <img src="https://img.shields.io/github/followers/lahadiyani?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Contributor-Active-green?style=flat&logo=github" alt="Contributor Badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=flat&logo=github" alt="Open Source Badge" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lahadiyani&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -27,6 +37,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
@@ -52,7 +63,7 @@
   <a href="https://www.linkedin.com/in/lahadiyani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:lahadiyani@example.com">
+  <a href="mailto:lahadiyani@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/lahadiyani" target="_blank">
