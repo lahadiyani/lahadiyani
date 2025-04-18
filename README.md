@@ -72,7 +72,7 @@
 
 ## ✨ Fun Facts
 
-- 🔍 Prompt Engginering
+- 🔍 Prompt Engginering and LLM Engginer
 - 🚀 Love building APIs and web applications
 - 💡 Always curious about new technologies
 
