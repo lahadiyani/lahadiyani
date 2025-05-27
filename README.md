@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:81C784&height=200&section=header&text=Lahadiyani%20GitHub%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-<h3 align="center">🚀 A Passionate Frontend & Backend Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">🚀 A Passionate AI Systems Engineer + Fullstack Software Architect from Indonesia 🇮🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lahadiyani&label=Profile%20views&color=0e75b6&style=flat" alt="lahadiyani" />
