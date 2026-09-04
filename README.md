@@ -1,80 +1,68 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:81C784&height=200&section=header&text=Lahadiyani%20GitHub%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<div align="center">
 
-<h3 align="center">🚀 A Passionate AI Systems Engineer + Fullstack Software Architect from Indonesia 🇮🇩</h3>
+  <!-- Header Banner Minimalis -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f2328&height=180&section=header&text=Lahadiyani&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lahadiyani&label=Profile%20views&color=0e75b6&style=flat" alt="lahadiyani" />
-  <img src="https://img.shields.io/github/followers/lahadiyani?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Contributor-Active-green?style=flat&logo=github" alt="Contributor Badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=flat&logo=github" alt="Open Source Badge" />
-</p>
+  <h3>AI Systems Engineer & Fullstack Software Architect</h3>
+  <p><i>Building scalable systems, AI tools, and specialized web architectures.</i></p>
 
----
+  <p>📍 Indonesia &nbsp;|&nbsp; 🛠️ Vulnerability Research & Systems Development</p>
 
-## 🏆 GitHub Trophies
+  <!-- Profile Metrics Badges -->
+  <p>
+    <img src="https://img.shields.io/github/followers/lahadiyani?color=21262d&label=Followers&style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=lahadiyani&color=21262d&style=flat-square&label=Views" />
+    <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square" />
+  </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lahadiyani&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lahadiyani&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahadiyani&theme=react&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
-### 💻 Tech Stack
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-</p>
+### 💻 Tech Stack & Ecosystem
 
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-</p>
-
-### 🧰 Tools & Technologies
-<p>
-  <img src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Web_Logo.svg" alt="Adobe XD" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-ff5733?style=flat&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Laragon-007ACC?style=flat&logo=laragon&logoColor=white" alt="Laragon" width="40" height="40"/>
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `JavaScript` `PHP` `Go` `SQL` |
+| **Backend & AI** | `Flask` `SQLAlchemy` `Groq API` `LLM Engineering` `REST APIs` |
+| **Frontend & UI** | `HTML5` `CSS3` `Bootstrap` `UI/UX Design` |
+| **Database & Cloud** | `MySQL` `Firebase` `Google Cloud Platform` |
+| **Environment & Tools** | `Ubuntu WSL2` `Termux` `Git` `Laragon` |
 
 ---
 
-## 📬 Connect with Me
+### 📊 Analytics & Activity
 
-<p align="left">
-  <a href="https://web.facebook.com/profile.php?id=100078252237871" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+<div align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=lahadiyani&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahadiyani&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lahadiyani&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=6" width="90%" />
+</div>
+
+---
+
+### 📬 Connect & Contact
+
+<div align="left">
   <a href="mailto:lahadiyani@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/lahadiyani" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/lahadiyani">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+  <a href="https://web.facebook.com/profile.php?id=100078252237871">
+    <img src="https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-## ✨ Fun Facts
-
-- 🔍 Prompt Engginering and LLM Engginer
-- 🚀 Love building APIs and web applications
-- 💡 Always curious about new technologies
-
-![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:4CAF50,100:81C784&height=100)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f2328&height=80&section=footer" width="100%" />
+</div>
