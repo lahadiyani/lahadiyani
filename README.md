@@ -51,7 +51,7 @@
 ### 🖥️ System Terminal
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lahadiyani/lahadiyani/output/terminal.svg" alt="Hacker Terminal" width="80%" />
+  <img src="https://raw.githubusercontent.com/lahadiyani/lahadiyani/output/terminal.svg?v=1" alt="Hacker Terminal" width="85%" />
 </div>
 
 ---
