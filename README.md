@@ -35,11 +35,12 @@
 
 <div align="center">
   <br />
-  <!-- Streak Stats (Alternatif Sangat Stabil) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahadiyani&theme=dark&background=0D1117&border=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" width="48%" alt="GitHub Streak" />
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lahadiyani&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" alt="GitHub Stats" />
 
-  <!-- Top Languages Card (Anurag Hazra Alternative / GPRM) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahadiyani&theme=dark&background=0D1117&border=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahadiyani&theme=dark&background=0D1117&border=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" width="48%" alt="GitHub Streak" />
+</div>
 
 ---
 
