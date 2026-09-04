@@ -7,10 +7,10 @@
   <!-- Header Banner Minimalis -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1f2328&height=180&section=header&text=Lahadiyani&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
-  <h3>AI Systems Engineer & Fullstack Software Architect</h3>
-  <p><i>Building scalable systems, AI tools, and specialized web architectures.</i></p>
+  <h3>AI Systems Engineer, Fullstack Software Architect & Mentor</h3>
+  <p><i>Building scalable systems, AI tools, and specialized web architectures, while mentoring aspiring engineers.</i></p>
 
-  <p>📍 Indonesia &nbsp;|&nbsp; 🛠️ Vulnerability Research & Systems Development</p>
+  <p>📍 Indonesia &nbsp;|&nbsp; 🛠️ Vulnerability Research, Systems Development & Technical Mentorship</p>
 
   <!-- Profile Metrics Badges -->
   <p>
@@ -54,7 +54,7 @@
 
 ### 🖥️ System Terminal
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=3FB950&background=0D1117&center=false&vCenter=true&multiline=true&repeat=true&width=650&height=180&lines=lahadiyani%40core%3A~%24+..%2Finit_system.sh;%5B!%5D+INITIALIZING+SYSTEM+CORE...;%5B*%5D+Booting+AI+Engine+%26+Security+Modules...;%5B%2B%5D+STATUS%3A+ONLINE+%2F+ACTIVE;%3E%3E%3E+%5BSUCCESS%5D+%3A%3A+HELLO+WORLD+FROM+GITHUB+ACTIONS!+%3A%3A+%3C%3C%3C" alt="Terminal Typing" />
 </div>
 
