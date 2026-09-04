@@ -15,6 +15,13 @@
     <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square" alt="Status" />
   </p>
 
+  <br />
+
+  <!-- Boot.dev Badge / ID Card -->
+  <a href="https://www.boot.dev">
+    <img src="https://api.boot.dev/v1/users/public/1d28e47a-fa2e-4387-b4dd-58b7bea2dfd3/thumbnail" alt="Boot.dev Profile" width="360" style="border-radius: 8px;" />
+  </a>
+
 </div>
 
 ---
@@ -34,9 +41,8 @@
 ### 📊 Analytics & Activity
 
 <div align="center">
-  <!-- Boot.dev Badge (Ukuran Diperbesar) & GitHub Streak -->
-  <img src="https://api.boot.dev/v1/users/public/1d28e47a-fa2e-4387-b4dd-58b7bea2dfd3/thumbnail" alt="Boot.dev Profile" width="180" style="border-radius: 8px; vertical-align: middle; margin-right: 15px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahadiyani&theme=dark&background=0D1117&border=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" width="48%" alt="GitHub Streak" style="vertical-align: middle;" />
+  <!-- GitHub Streak Clean Output -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahadiyani&theme=dark&background=0D1117&border=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" width="60%" alt="GitHub Streak" />
 </div>
 
 <br />
