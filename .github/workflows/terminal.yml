@@ -1,53 +1,65 @@
-name: "Terminal // System Initializer"
+name: "Terminal Initializer"
 
 on:
-  # Berjalan otomatis bersamaan dengan jadwal Snake
   schedule:
     - cron: "0 0 * * *"
-  # Izinkan pemicu manual kapan saja
   workflow_dispatch:
 
 jobs:
-  terminal-exec:
+  generate-terminal-svg:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Initialize Hacker Terminal Simulation
-        run: |
-          echo "============================================================"
-          echo " [!] INITIALIZING SYSTEM CORE ENVIRONMENT..."
-          echo " [!] TARGET HOST: github.com/lahadiyani"
-          echo "============================================================"
-          sleep 1
-          
-          # ASCII Art Banner
-          echo '   ___          _         _                        '
-          echo '  / / \__ _ / \   __ _| |__   __ _ __   _      '
-          echo ' / / / _` |/ _ \ / _` |  _ \ / _` | \ / \     '
-          echo '/ /_/ (_| / ___ \ (_| | | | | (_| || | | |    '
-          echo '\____/\__,_/_/   \_\__,_|_| |_|\__,_||_| |_|    '
-          echo '                                                '
-          
-          echo "------------------------------------------------------------"
-          echo "[+] SYSTEM TIME  : $(date -u)"
-          echo "[+] KERNEL       : $(uname -srm)"
-          echo "[+] ARCHITECTURE : X86_64 / LINUX_CONTAINER"
-          echo "[+] RUNNER HOST  : $HOSTNAME"
-          echo "------------------------------------------------------------"
-          sleep 1
+      - name: Checkout Code
+        uses: actions/checkout@v3
 
-          # Simulated Terminal Execution Log
-          echo "[*] Booting AI Core Module..."
-          sleep 0.5
-          echo "[*] Loading Fullstack Architect Dependencies..."
-          sleep 0.5
-          echo "[*] Syncing Security Policy & System Metrics..."
-          sleep 0.5
-          echo "[*] Injecting Payload: 'Hello World'..."
-          echo ""
-          
-          # Terminal Hello World Output
-          echo "============================================================"
-          echo " >>> [SUCCESS] :: HELLO WORLD FROM GITHUB ACTIONS! :: <<<"
-          echo "============================================================"
-          echo ""
-          echo "[✓] Execution Finished. Session Terminated Gracefully."
+      - name: Generate Terminal Output SVG
+        run: |
+          mkdir -p dist
+          cat << 'EOF' > dist/terminal.svg
+          <svg fill="none" viewBox="0 0 700 240" width="100%" xmlns="http://www.w3.org/2000/svg">
+            <foreignObject width="100%" height="100%">
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <style>
+                  .terminal {
+                    background-color: #0d1117;
+                    border: 1px solid #30363d;
+                    border-radius: 8px;
+                    padding: 16px;
+                    font-family: 'Fira Code', 'Courier New', monospace;
+                    color: #58a6ff;
+                    font-size: 13px;
+                    line-height: 1.5;
+                    box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+                  }
+                  .green { color: #3fb950; font-weight: bold; }
+                  .prompt { color: #8b949e; }
+                  .header { color: #d2a8ff; font-weight: bold; }
+                  .gray { color: #8b949e; }
+                </style>
+                <div class="terminal">
+                  <div><span class="prompt">lahadiyani@core:~$</span> <span class="green">./init_system.sh --target github.com/lahadiyani</span></div>
+                  <div class="gray">============================================================</div>
+                  <div><span class="header">[!] INITIALIZING SYSTEM CORE ENVIRONMENT...</span></div>
+                  <div>[*] Booting AI Core Module & Security Engine...</div>
+                  <div>[*] Syncing Metrics & Deploying Workflows...</div>
+                  <div class="gray">------------------------------------------------------------</div>
+                  <div>[+] STATUS      : <span class="green">ONLINE / ACTIVE</span></div>
+                  <div>[+] ENVIRONMENT : X86_64 / UBUNTU_CONTAINER</div>
+                  <div class="gray">------------------------------------------------------------</div>
+                  <div><span class="green">&gt;&gt;&gt; [SUCCESS] :: HELLO WORLD FROM GITHUB ACTIONS! :: &lt;&lt;&lt;</span></div>
+                  <div><span class="prompt">[✓] Execution Finished. Session Terminated Gracefully.</span></div>
+                </div>
+              </div>
+            </foreignObject>
+          </svg>
+          EOF
+
+      - name: Push terminal.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
