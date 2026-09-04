@@ -1,0 +1,53 @@
+name: "Terminal // System Initializer"
+
+on:
+  # Berjalan otomatis bersamaan dengan jadwal Snake
+  schedule:
+    - cron: "0 0 * * *"
+  # Izinkan pemicu manual kapan saja
+  workflow_dispatch:
+
+jobs:
+  terminal-exec:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Initialize Hacker Terminal Simulation
+        run: |
+          echo "============================================================"
+          echo " [!] INITIALIZING SYSTEM CORE ENVIRONMENT..."
+          echo " [!] TARGET HOST: github.com/lahadiyani"
+          echo "============================================================"
+          sleep 1
+          
+          # ASCII Art Banner
+          echo '   ___          _         _                        '
+          echo '  / / \__ _ / \   __ _| |__   __ _ __   _      '
+          echo ' / / / _` |/ _ \ / _` |  _ \ / _` | \ / \     '
+          echo '/ /_/ (_| / ___ \ (_| | | | | (_| || | | |    '
+          echo '\____/\__,_/_/   \_\__,_|_| |_|\__,_||_| |_|    '
+          echo '                                                '
+          
+          echo "------------------------------------------------------------"
+          echo "[+] SYSTEM TIME  : $(date -u)"
+          echo "[+] KERNEL       : $(uname -srm)"
+          echo "[+] ARCHITECTURE : X86_64 / LINUX_CONTAINER"
+          echo "[+] RUNNER HOST  : $HOSTNAME"
+          echo "------------------------------------------------------------"
+          sleep 1
+
+          # Simulated Terminal Execution Log
+          echo "[*] Booting AI Core Module..."
+          sleep 0.5
+          echo "[*] Loading Fullstack Architect Dependencies..."
+          sleep 0.5
+          echo "[*] Syncing Security Policy & System Metrics..."
+          sleep 0.5
+          echo "[*] Injecting Payload: 'Hello World'..."
+          echo ""
+          
+          # Terminal Hello World Output
+          echo "============================================================"
+          echo " >>> [SUCCESS] :: HELLO WORLD FROM GITHUB ACTIONS! :: <<<"
+          echo "============================================================"
+          echo ""
+          echo "[✓] Execution Finished. Session Terminated Gracefully."
