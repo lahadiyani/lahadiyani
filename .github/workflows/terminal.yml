@@ -14,45 +14,33 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Generate Terminal Output SVG
+      - name: Generate Native Terminal SVG
         run: |
           mkdir -p dist
           cat << 'EOF' > dist/terminal.svg
-          <svg fill="none" viewBox="0 0 700 240" width="100%" xmlns="http://www.w3.org/2000/svg">
-            <foreignObject width="100%" height="100%">
-              <div xmlns="http://www.w3.org/1999/xhtml">
-                <style>
-                  .terminal {
-                    background-color: #0d1117;
-                    border: 1px solid #30363d;
-                    border-radius: 8px;
-                    padding: 16px;
-                    font-family: 'Fira Code', 'Courier New', monospace;
-                    color: #58a6ff;
-                    font-size: 13px;
-                    line-height: 1.5;
-                    box-shadow: 0 4px 12px rgba(0,0,0,0.5);
-                  }
-                  .green { color: #3fb950; font-weight: bold; }
-                  .prompt { color: #8b949e; }
-                  .header { color: #d2a8ff; font-weight: bold; }
-                  .gray { color: #8b949e; }
-                </style>
-                <div class="terminal">
-                  <div><span class="prompt">lahadiyani@core:~$</span> <span class="green">./init_system.sh --target github.com/lahadiyani</span></div>
-                  <div class="gray">============================================================</div>
-                  <div><span class="header">[!] INITIALIZING SYSTEM CORE ENVIRONMENT...</span></div>
-                  <div>[*] Booting AI Core Module & Security Engine...</div>
-                  <div>[*] Syncing Metrics & Deploying Workflows...</div>
-                  <div class="gray">------------------------------------------------------------</div>
-                  <div>[+] STATUS      : <span class="green">ONLINE / ACTIVE</span></div>
-                  <div>[+] ENVIRONMENT : X86_64 / UBUNTU_CONTAINER</div>
-                  <div class="gray">------------------------------------------------------------</div>
-                  <div><span class="green">&gt;&gt;&gt; [SUCCESS] :: HELLO WORLD FROM GITHUB ACTIONS! :: &lt;&lt;&lt;</span></div>
-                  <div><span class="prompt">[✓] Execution Finished. Session Terminated Gracefully.</span></div>
-                </div>
-              </div>
-            </foreignObject>
+          <svg fill="none" viewBox="0 0 700 230" width="100%" xmlns="http://www.w3.org/2000/svg">
+            <style>
+              .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 8px; }
+              .prompt { fill: #8b949e; font-family: monospace; font-size: 13px; }
+              .cmd { fill: #3fb950; font-family: monospace; font-size: 13px; font-weight: bold; }
+              .line { fill: #8b949e; font-family: monospace; font-size: 13px; }
+              .header { fill: #d2a8ff; font-family: monospace; font-size: 13px; font-weight: bold; }
+              .text { fill: #58a6ff; font-family: monospace; font-size: 13px; }
+              .success { fill: #3fb950; font-family: monospace; font-size: 13px; font-weight: bold; }
+            </style>
+            
+            <rect width="698" height="228" x="1" y="1" class="bg" />
+            
+            <text x="20" y="35"><tspan class="prompt">lahadiyani@core:~$</tspan> <tspan class="cmd">./init_system.sh --target github.com/lahadiyani</tspan></text>
+            <text x="20" y="55" class="line">============================================================</text>
+            <text x="20" y="75" class="header">[!] INITIALIZING SYSTEM CORE ENVIRONMENT...</text>
+            <text x="20" y="95" class="text">[*] Booting AI Core Module &amp; Security Engine...</text>
+            <text x="20" y="115" class="text">[*] Syncing Metrics &amp; Deploying Workflows...</text>
+            <text x="20" y="135" class="line">------------------------------------------------------------</text>
+            <text x="20" y="155"><tspan class="text">[+] STATUS      : </tspan><tspan class="cmd">ONLINE / ACTIVE</tspan></text>
+            <text x="20" y="175" class="text">[+] ENVIRONMENT : X86_64 / UBUNTU_CONTAINER</text>
+            <text x="20" y="195" class="line">------------------------------------------------------------</text>
+            <text x="20" y="215" class="success">&gt;&gt;&gt; [SUCCESS] :: HELLO WORLD FROM GITHUB ACTIONS! :: &lt;&lt;&lt;</text>
           </svg>
           EOF
 
