@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/1d28e47a-fa2e-4387-b4dd-58b7bea2dfd3/thumbnail" alt="Boot.dev Profile" width="120" style="border-radius: 50%;" />
-</p>
-
 <div align="center">
 
   <!-- Header Banner Minimalis -->
@@ -38,8 +34,9 @@
 ### 📊 Analytics & Activity
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahadiyani&theme=dark&background=0D1117&border=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" width="48%" alt="GitHub Streak" />
+  <!-- Boot.dev Badge (Ukuran Diperbesar) & GitHub Streak -->
+  <img src="https://api.boot.dev/v1/users/public/1d28e47a-fa2e-4387-b4dd-58b7bea2dfd3/thumbnail" alt="Boot.dev Profile" width="180" style="border-radius: 8px; vertical-align: middle; margin-right: 15px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahadiyani&theme=dark&background=0D1117&border=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" width="48%" alt="GitHub Streak" style="vertical-align: middle;" />
 </div>
 
 <br />
