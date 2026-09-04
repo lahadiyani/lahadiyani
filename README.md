@@ -34,10 +34,6 @@
 ### 📊 Analytics & Activity
 
 <div align="center">
-  <br />
-  <!-- Metrics SVG -->
-  <img src="https://metrics.le333.no/lahadiyani?template=classic&base=header%2C%20activity&config.timezone=Asia%2FMakassar" width="48%" alt="Metrics Activity" />
-
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahadiyani&theme=dark&background=0D1117&border=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" width="48%" alt="GitHub Streak" />
 </div>
