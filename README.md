@@ -39,8 +39,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahadiyani&theme=dark&background=0D1117&border=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" width="48%" alt="GitHub Streak" />
 
   <!-- Top Languages Card (Anurag Hazra Alternative / GPRM) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahadiyani&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" alt="Top Languages" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahadiyani&theme=dark&background=0D1117&border=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" alt="GitHub Streak" />
 
 ---
 
