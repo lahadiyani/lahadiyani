@@ -35,8 +35,8 @@
 
 <div align="center">
   <br />
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lahadiyani&theme=github-dark&bg_color=0d1117&hide_border=true&color=58a6ff&line=58a6ff&point=58a6ff" width="48%" alt="GitHub Activity Graph" />
+  <!-- Metrics SVG -->
+  <img src="https://metrics.le333.no/lahadiyani?template=classic&base=header%2C%20activity&config.timezone=Asia%2FMakassar" width="48%" alt="Metrics Activity" />
 
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahadiyani&theme=dark&background=0D1117&border=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" width="48%" alt="GitHub Streak" />
