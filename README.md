@@ -38,6 +38,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahadiyani&theme=dark&background=0D1117&border=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" width="48%" alt="GitHub Streak" />
 </div>
 
+<br />
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lahadiyani/lahadiyani/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
 ---
 
 ### 📬 Connect & Contact
