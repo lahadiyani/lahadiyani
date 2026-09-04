@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/1d28e47a-fa2e-4387-b4dd-58b7bea2dfd3/thumbnail" alt="Boot.dev Profile" width="120" style="border-radius: 50%;" />
+</p>
+
 <div align="center">
 
   <!-- Header Banner Minimalis -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f2328&height=180&section=header&text=Lahadiyani&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f2328&height=180&section=header&text=Lahadiyani&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <h3>AI Systems Engineer & Fullstack Software Architect</h3>
   <p><i>Building scalable systems, AI tools, and specialized web architectures.</i></p>
@@ -10,9 +14,9 @@
 
   <!-- Profile Metrics Badges -->
   <p>
-    <img src="https://img.shields.io/github/followers/lahadiyani?color=21262d&label=Followers&style=flat-square" />
-    <img src="https://komarev.com/ghpvc/?username=lahadiyani&color=21262d&style=flat-square&label=Views" />
-    <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square" />
+    <img src="https://img.shields.io/github/followers/lahadiyani?color=21262d&label=Followers&style=flat-square" alt="GitHub Followers" />
+    <img src="https://komarev.com/ghpvc/?username=lahadiyani&color=21262d&style=flat-square&label=Views" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square" alt="Status" />
   </p>
 
 </div>
@@ -50,7 +54,7 @@
 
 ### 🖥️ System Terminal
 
-<div align="start">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=3FB950&background=0D1117&center=false&vCenter=true&multiline=true&repeat=true&width=650&height=180&lines=lahadiyani%40core%3A~%24+..%2Finit_system.sh;%5B!%5D+INITIALIZING+SYSTEM+CORE...;%5B*%5D+Booting+AI+Engine+%26+Security+Modules...;%5B%2B%5D+STATUS%3A+ONLINE+%2F+ACTIVE;%3E%3E%3E+%5BSUCCESS%5D+%3A%3A+HELLO+WORLD+FROM+GITHUB+ACTIONS!+%3A%3A+%3C%3C%3C" alt="Terminal Typing" />
 </div>
 
@@ -60,18 +64,18 @@
 
 <div align="left">
   <a href="mailto:lahadiyani@example.com">
-    <img src="https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/lahadiyani">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://web.facebook.com/profile.php?id=100078252237871">
-    <img src="https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f2328&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f2328&height=80&section=footer" width="100%" alt="Footer Banner" />
 </div>
