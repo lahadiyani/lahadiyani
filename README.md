@@ -51,7 +51,7 @@
 ### 🖥️ System Terminal
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lahadiyani/lahadiyani/output/terminal.svg?v=1" alt="Hacker Terminal" width="85%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=3FB950&background=0D1117&center=false&vCenter=true&multiline=true&repeat=true&width=650&height=180&lines=lahadiyani%40core%3A~%24+..%2Finit_system.sh;%5B!%5D+INITIALIZING+SYSTEM+CORE...;%5B*%5D+Booting+AI+Engine+%26+Security+Modules...;%5B%2B%5D+STATUS%3A+ONLINE+%2F+ACTIVE;%3E%3E%3E+%5BSUCCESS%5D+%3A%3A+HELLO+WORLD+FROM+GITHUB+ACTIONS!+%3A%3A+%3C%3C%3C" alt="Terminal Typing" />
 </div>
 
 ---
